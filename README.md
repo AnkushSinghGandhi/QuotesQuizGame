@@ -4,4 +4,6 @@
 
 2) i have also uploaded the csv file with scraped data in it
 
-3)
+3) you have to run 'csv quotes game.py' to play this game
+
+4) if you want to expand this project you can store data into database instead of csv or you can make a gui for this
